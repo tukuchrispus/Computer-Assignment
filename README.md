@@ -8,7 +8,7 @@ Web Development and User Authentication System
 The project allows students to choose between two options:
 
 # Creating a personal portfolio website using HTML and CSS.
-Designing and implementing a signup/login system with data storage on XAMPP using PHP.
+Designing and implementing a signup/login system with data storage on XAMPP using SQL.
 ##Project Phases:
 #Initiation Phase:(Template link)
 
