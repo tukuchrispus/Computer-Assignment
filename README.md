@@ -20,24 +20,24 @@ Here you will do brain storming you will ask yourself the following questions.
 * 6. What goals are more achievable?
 ![Project Initiation face  ](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/cde7b79a-2703-4f67-9403-51d22dd93da3)
 
-###Planning: 
+### Planning: 
 Here try and think about how your project will look like. Ask the following Questions?
-*1. Will the users sign in and log in?
-*2. Will we have a home page?
-*3. Will we have a contact page?
-*4. What other features will it have?
-**I advice you to draw on a piece of paper a roadmap of what you expect and create a clear plan with dates and timelines.
+* 1. Will the users sign in and log in?
+* 2. Will we have a home page?
+* 3. Will we have a contact page?
+* 4. What other features will it have?
+** I advice you to draw on a piece of paper a roadmap of what you expect and create a clear plan with dates and timelines.
 
 ![Project Planner Sheet](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/6583391c-c62e-4757-ae9b-827e481edf0c)
 
-###Execution: Communicate
+### Execution: Communicate
 Implement the plan, manage tasks, monitor progress, and  address any challenges.
 Here you come to the instructors and ask for help if you encounter any bugs or difficulties.
 
-###Monitoring and Control: 
+### Monitoring and Control: 
 Track progress against the plan, adapt to any changes and ensure the project stays on track.
 
-###Closure:
+### Closure:
 Here you submit your project on the project submission form that will be provided on 5th January 2023 ...You will submit your GitHub link a video on YouTube on how your project works and if you worked in a group your group members' names.
 
 Additional Notes:
