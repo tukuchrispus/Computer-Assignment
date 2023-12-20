@@ -20,7 +20,7 @@ Here you will do brain storming you will ask yourself the following questions.
 * 6. What goals are more achievable?
 ![Project Initiation face  ](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/cde7b79a-2703-4f67-9403-51d22dd93da3)
 
-### Planning: 
+## Planning: 
 Here try and think about how your project will look like. Ask the following Questions?
 * 1. Will the users sign in and log in?
 * 2. Will we have a home page?
@@ -30,7 +30,7 @@ Here try and think about how your project will look like. Ask the following Ques
 
 ![Project Planner Sheet](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/6583391c-c62e-4757-ae9b-827e481edf0c)
 
-### Execution: Communicate
+## Execution: Communicate
 Implement the plan, manage tasks, monitor progress, and  address any challenges.
 Here you come to the instructors and ask for help if you encounter any bugs or difficulties.
 
