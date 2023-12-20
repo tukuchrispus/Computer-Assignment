@@ -1,23 +1,23 @@
 # Computer-Assignment. 
-#Project Goal: 
+# Project Goal: 
 For this holiday we will be working on a project idea will be submitting for graduation purposes. For Compassion Kenya will be finishing our learning in "February " and for KilifiGoa will be finishing in March. 
 So will  go through the 5 stages of project management  if you feel this tough you can use the same process on a portfolio project. 
 
-#Methodology: Use the five stages of project management to guide your work.
+# Methodology: Use the five stages of project management to guide your work.
 ![Minimalist Project Management Process Infographic Graph](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/1494d569-ec02-4647-b49d-ac2b2bff2849)
 Take a pen and a book then write down the stages...and use it as a guide when you finish stage one tick it on your book.
 
 
-##Stages:
+## Stages:
 
-###Initiation:
+### Initiation:
 Here you will do brain storming you will ask yourself the following questions.
-*1. What am I good at? (Mention at least five things..include your profession or school work)
-*2. What projects can I do with my strengths? (Try and align projects with your answer from question 1.)
-*3. You can also ask what challenge am i facing at school and also at home or my village or church. (Write any that comes to mind)
-*4. Among the challenges what solution can I have? ( Create it as a project idea.)
-*5. Ask yourself what your goals are.
-*6. What goals are more achievable?
+* 1. What am I good at? (Mention at least five things..include your profession or school work)
+* 2. What projects can I do with my strengths? (Try and align projects with your answer from question 1.)
+* 3. You can also ask what challenge am i facing at school and also at home or my village or church. (Write any that comes to mind)
+* 4. Among the challenges what solution can I have? ( Create it as a project idea.)
+* 5. Ask yourself what your goals are.
+* 6. What goals are more achievable?
 ![Project Initiation face  ](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/cde7b79a-2703-4f67-9403-51d22dd93da3)
 
 ###Planning: 
